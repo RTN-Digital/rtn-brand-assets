@@ -1,8 +1,8 @@
 # RTN Brand Assets
 
-Canonical home for the Run The NumbersÃÂ® brand system. The full spec lives in [`DESIGN.md`](./DESIGN.md) in this repo (raw URL: <https://raw.githubusercontent.com/dean-yates/rtn-brand-assets/main/DESIGN.md>). This repo also hosts the visual files Ã¢ÂÂ logos, icons, covers Ã¢ÂÂ referenced across rtn.digital, the RTN Notion workspace, and automated deliverables.
+Canonical home for the Run The NumbersÃÂ® brand system. The full spec lives in [`DESIGN.md`](./DESIGN.md) in this repo (raw URL: <https://raw.githubusercontent.com/RTN-Digital/rtn-brand-assets/main/DESIGN.md>). This repo also hosts the visual files Ã¢ÂÂ logos, icons, covers Ã¢ÂÂ referenced across rtn.digital, the RTN Notion workspace, and automated deliverables.
 
-> **Canonical source.** `DESIGN.md` in this repo is the single source of truth for the RTN brand system. The `rtn-branding` skill in `dean-yates/rtn-cowork` is a fast-loading cache of this spec; if anything in the skill contradicts `DESIGN.md`, the canonical wins.
+> **Canonical source.** `DESIGN.md` in this repo is the single source of truth for the RTN brand system. The `rtn-branding` skill in `RTN-Digital/rtn-cowork` is a fast-loading cache of this spec; if anything in the skill contradicts `DESIGN.md`, the canonical wins.
 
 Moved from Notion to GitHub on 20 May 2026. The old Notion `DESIGN.md` sub-page in the RTN Brand Guide teamspace is now a redirect stub pointing here.
 
@@ -26,9 +26,9 @@ Canonical files live in [`logo-redesign/svg/`](./logo-redesign/svg/):
 | `rtn-wordmark-cream.svg` | `#FAF7F2` | Monogram â Canvas Cream, reversed-out |
 | `rtn-lockup-ink.svg` | `#1B1A17` | Full lockup â Warm Ink |
 | `rtn-lockup-blue.svg` | `#2B4A7C` | Full lockup â Ledger Blue |
-| `rtn-lockup-cream.svg` | `#FAF7F2` | Full lockup â Canvas Cream |](./DESIGN.md) in this repo (raw URL: <https://raw.githubusercontent.com/dean-yates/rtn-brand-assets/main/DESIGN.md>). This repo also hosts the visual files Ã¢ÂÂ logos, icons, covers Ã¢ÂÂ referenced across rtn.digital, the RTN Notion workspace, and automated deliverables.
+| `rtn-lockup-cream.svg` | `#FAF7F2` | Full lockup â Canvas Cream |](./DESIGN.md) in this repo (raw URL: <https://raw.githubusercontent.com/RTN-Digital/rtn-brand-assets/main/DESIGN.md>). This repo also hosts the visual files Ã¢ÂÂ logos, icons, covers Ã¢ÂÂ referenced across rtn.digital, the RTN Notion workspace, and automated deliverables.
 
-> **Canonical source.** `DESIGN.md` in this repo is the single source of truth for the RTN brand system. The `rtn-branding` skill in `dean-yates/rtn-cowork` is a fast-loading cache of this spec; if anything in the skill contradicts `DESIGN.md`, the canonical wins.
+> **Canonical source.** `DESIGN.md` in this repo is the single source of truth for the RTN brand system. The `rtn-branding` skill in `RTN-Digital/rtn-cowork` is a fast-loading cache of this spec; if anything in the skill contradicts `DESIGN.md`, the canonical wins.
 
 Moved from Notion to GitHub on 20 May 2026. The old Notion `DESIGN.md` sub-page in the RTN Brand Guide teamspace is now a redirect stub pointing here.
 
@@ -45,7 +45,7 @@ V2 wordmark Ã¢ÂÂ decision recorded in Notion: [Logo design Ã¢ÂÂ 
 | `rtn-wordmark-blue.svg` | `#2B4A7C` | Ledger Blue Ã¢ÂÂ brand-forward, hero sections, primary marketing |
 | `rtn-wordmark-cream.svg` | `#FAF7F2` | Canvas Cream Ã¢ÂÂ reversed-out on Ledger Blue, Warm Ink, or photographs |
 
-See [`logo-redesign/README.md`](./logo-redesign/README.md) for the working summary and outstanding refinement items, and [`logo-redesign/test-bench.html`](./logo-redesign/test-bench.html) ([live preview](https://htmlpreview.github.io/?https://github.com/dean-yates/rtn-brand-assets/blob/main/logo-redesign/test-bench.html)) for every variant rendered against the real V2 type system.
+See [`logo-redesign/README.md`](./logo-redesign/README.md) for the working summary and outstanding refinement items, and [`logo-redesign/test-bench.html`](./logo-redesign/test-bench.html) ([live preview](https://htmlpreview.github.io/?https://github.com/RTN-Digital/rtn-brand-assets/blob/main/logo-redesign/test-bench.html)) for every variant rendered against the real V2 type system.
 
 Favicon (RTN on a Ledger Blue rounded square, two cuts) lives alongside in `logo-redesign/svg/favicon-display.svg` and `logo-redesign/svg/favicon-small.svg`, with PNG fallbacks in `logo-redesign/png/`.
 
