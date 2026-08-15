@@ -257,7 +257,7 @@ Everything lives in `logo-redesign/` of this repo.
 
 Use SVG by default. PNGs are for placements that can't take vector: email signatures, some document embeds, social profile pictures, third-party platforms with patchy SVG support.
 
-Canonical raw URL pattern: `https://raw.githubusercontent.com/dean-yates/rtn-brand-assets/main/logo-redesign/svg/RTN_Logo_{Variant}.svg`.
+Canonical raw URL pattern: `https://raw.githubusercontent.com/RTN-Digital/rtn-brand-assets/main/logo-redesign/svg/RTN_Logo_{Variant}.svg`.
 
 ### When to use the lockup vs the monogram
 
