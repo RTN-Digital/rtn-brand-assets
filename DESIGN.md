@@ -239,7 +239,7 @@ The V2 logo is a monogram. "RTN" set in Fraunces variable at weight 700, opsz 14
 
 The full "RUN THE NUMBERS®" descriptor is not exported as a flattened asset. It gets composed live in HTML/CSS using Fraunces and Geist on the surfaces that need it — hero sections, document covers, presentation title slides. Composition rules: "RTN" in Fraunces variable at weight 500, opsz 144, letter-spacing 0.05em. "RUN THE NUMBERS®" underneath in Geist (not Mono), weight 500, uppercase, letter-spacing 0.5em. RTN cap height roughly 5x the descriptor cap height. Optical spacing between the two lines about half the descriptor cap height. The ® lives on the descriptor only — never on the three-letter monogram, because only the full registered string "Run The Numbers®" is protected.
 
-Canonical decision record: [Logo design — V2 wordmark (decided)](https://www.notion.so/3678c4a62c3b8181b8a9d5187a2562c4) (Notion). If anything here drifts from that page, Notion wins.
+Canonical decision record: the vault note **Brand & Visual System**. The original Notion page went with the workspace decommission, so this file is the source of truth for the mark; the vault holds the decision history behind it.
 
 ### Asset structure
 
@@ -257,7 +257,7 @@ Everything lives in `logo-redesign/` of this repo.
 
 Use SVG by default. PNGs are for placements that can't take vector: email signatures, some document embeds, social profile pictures, third-party platforms with patchy SVG support.
 
-Canonical raw URL pattern: `https://raw.githubusercontent.com/dean-yates/rtn-brand-assets/main/logo-redesign/svg/RTN_Logo_{Variant}.svg`.
+Canonical raw URL pattern: `https://raw.githubusercontent.com/RTN-Digital/rtn-brand-assets/main/logo-redesign/svg/RTN_Logo_{Variant}.svg`.
 
 ### When to use the lockup vs the monogram
 
