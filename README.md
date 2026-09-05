@@ -60,6 +60,15 @@ V2 Ledger favicons: cream RTN (`#FFFFF5`) on a Ledger Blue (`#2B4A7C`) rounded s
 | `apple-touch-icon.png` | 180×180 | iOS and macOS home screen and bookmarks |
 | `webclip-512x512.png` | 512×512 | PWA manifest, Open Graph fallback |
 
+## App icons
+
+1024×1024 PNG, no transparency, for platform app-listing fields (Meta for Developers, app stores, OAuth consent screens). Rendered from the official `RTN_Logo_*` SVGs, not typeset by hand. Square and full-bleed, because platforms apply their own corner masking.
+
+| File | Ground | Mark |
+|---|---|---|
+| `app-icons/RTN_App_Icon_1024.png` | Ledger Blue `#2B4A7C` | Canvas Cream. Default: holds up at 32px and matches the favicon colourway |
+| `app-icons/RTN_App_Icon_Cream_1024.png` | Canvas Cream `#FAF7F2` | Ledger Blue. For dark or high-contrast listing surfaces |
+
 ## Covers
 
 Six cover images in [`covers/`](./covers/), all V2 Ledger colourways.
