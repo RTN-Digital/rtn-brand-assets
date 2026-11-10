@@ -10,6 +10,9 @@ on:
     paths:
       - 'DESIGN.md'
 
+permissions:
+  contents: read
+
 jobs:
   lint:
     runs-on: ubuntu-latest
@@ -19,4 +22,4 @@ jobs:
         with:
           node-version: '20'
       - name: Lint DESIGN.md
-        run: npx --yes @google/design.md lint DESIGN.md
+        run: npx --yes @google/design.md@0.4.0 lint DESIGN.md
